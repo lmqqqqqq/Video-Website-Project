@@ -1,5 +1,5 @@
 # Website
-This repo is the project for "Foundations of Computer Science".   
+This is my project for "Foundations of Computer Science"(100709) in Tongji University.   
 Desired domain name: **SaBiSaBi.com**   
 Finished on Dec.12. :star2:
 # Group members  
