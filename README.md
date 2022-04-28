@@ -1,5 +1,5 @@
 # Website
-This is my project for "Foundations of Computer Science"(100709) in Tongji University.   
+This is my project of Introduction to Computer Science Course(100709) in Tongji University.   
 Desired domain name: **SaBiSaBi.com**   
 Finished on Dec.12. :star2:
 # Group members  
